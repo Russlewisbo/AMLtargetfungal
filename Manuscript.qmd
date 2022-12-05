@@ -1,0 +1,19 @@
+---
+title: "Managing Fungal Infections in the Era of Targeted Therapy for Acute Myelogenous Leukemia"
+format: html
+editor: visual
+bibliography: references.bib
+csl: clinical-infectious-diseases.csl
+---
+
+Russell E. Lewis, Pharm.D., Associate Professor of Medicine, Infectious Diseases^1^
+
+Marta Stanzani, M.D., Ph.D.^2^ Deparmtnet of Hematology
+
+^1^Department of Molecular Medicine, University of Padua, Padua Italy
+
+^2^Department of Hematology, Cá Funcello Hospital, USL2 Treviso, Italy
+
+## Abstract
+
+## Introduction
