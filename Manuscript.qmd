@@ -6,14 +6,60 @@ bibliography: references.bib
 csl: clinical-infectious-diseases.csl
 ---
 
-Russell E. Lewis, Pharm.D., Associate Professor of Medicine, Infectious Diseases^1^
+Russell E. Lewis, Pharm.D.^1^
 
-Marta Stanzani, M.D., Ph.D.^2^ Deparmtnet of Hematology
+Marta Stanzani, M.D., Ph.D.^2^
 
-^1^Department of Molecular Medicine, University of Padua, Padua Italy
+^1^Associate Professor of Medicine, Department of Molecular Medicine, University of Padua, Padua, Italy:ORCID ID:
 
-^2^Department of Hematology, Cá Funcello Hospital, USL2 Treviso, Italy
+^2^Director of Hematopoietic Stem Cell Transplantation and Cellular Therapy,   Hematology Unit, Ca' Foncello Hospital,  AULSS 2- Marca Trevigiana, Treviso, Italy:ORCID ID:
+
+## 
+
+Keywords
+
+## Competing interests
+
+## 
 
 ## Abstract
 
+15-250 words
+
 ## Introduction
+
+Progress in the understanding of the biology and therapy of acute myeloid leukemia (AML) is evolving at a rapid pace. Recent advances in cytogenetics and next-generation sequencing have revealed that AML is a spectrum of clinical-cytogenetic-molecular entities with diverse pathophysiologies requiring different therapies associated with different outcomes [@kantarjian2008]. This knowledge has fuelled an explosion in the development of novel therapeutics that target abnormal signalling pathways arising from somatic mutations in AML[@newell_cook21]. Targeted therapies are now increasingly used in combination with, or in place of, traditional cytotoxic chemotherapy [@kantarjian2016]. Since 2017, nine agents have been approved for various indications in AML [@kantarjian_etal21]. Several of these agents have been shown to improve survival vs.conventional conventional chemotherapy in selected AML populations, especially among older patients who as little as two decades ago were only offered supportive care, palliation or hospice [@kantarjian_etal22].
+
+Classical induction chemotherapy regimens for AML with combinations of cytarabine and anthracyclines result in prolonged neutropenia that placed the patient at high risk for for developing invasive mold diseases such as aspergillosis [@pagano2016]. Although improvements in diagnostics and newer antifungal therapies have improved outcomes, average mortality rates 6 weeks after diagnosis still approach 20% [@thompson_young21]. For those patients who survive the infection, consolidation chemotherapy[@girmenia2014a, @offner1998; @even2011] or progression to hematopoetic stem cell transplantation[@ford_etal21] is often delayed, or eligibility for clinical trials of novel targeted agents may be impacted increasing the risk for relapse and decreased disease-free survival. Therefore, prevention or preemeptive control of mold infections is integral for improving the probability of durable remission of the underlying malignancy.
+
+Triazole antifungals
+
+\
+
+**How do targeted therapies alter the risk of invasive mold disease?**
+
+\
+
+**What are the risk with triazole antifungals?**
+
+*Venetoclax*
+
+\
+
+\
+
+FLT3 inhibitors
+
+**What are the risks with echinocandins?**
+
+\
+
+**What are the risk with liposomal amphotericin B?**
+
+\
+
+**What is the promise of future antifungals?**
+
+\
+
+**What is the role of therapeutic drug monitoring?**
