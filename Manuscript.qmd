@@ -1,6 +1,6 @@
 ---
 title: "When Precision Therapy Creates Inprecise Choices"
-subtitle: "Antifungal prophyalxis in the era or targeted therapy for acute myelogenoys leukemia"
+subtitle: "Antifungal prophyalxis in the era or targeted therapy for acute myelogeneous leukemia"
 format: html
 editor: visual
 bibliography: references.bib
@@ -15,13 +15,9 @@ Marta Stanzani, M.D., Ph.D.^2^
 
 ^2^Director of Hematopoietic Stem Cell Transplantation and Cellular Therapy,   Hematology Unit, Ca' Foncello Hospital,  AULSS 2- Marca Trevigana, Treviso, Italy:ORCID ID:000-0003-1569-3447
 
-## 
-
 ## Keywords
 
 ## Competing interests
-
-## 
 
 ## Abstract
 
@@ -29,17 +25,31 @@ Marta Stanzani, M.D., Ph.D.^2^
 
 ## Introduction
 
-Acute myeloid leukemia (AML) is a hematologic malignancy characterized by the proliferation of myeloid blasts or progranulocytes that fail to undergo normal differentiation [@newell_cook21a]. It is the most common acute leukemia is older adults and historically associated with 5-year survival rates less than 10-15% [@kantarjian_etal21b]. The standard remission-induction chemotherapy for AML in use for over 40 years combines cytarabine and an anthracycline that results in severe and prolonged neutropenia, which places patients at high risk for developing life-threatening invasive fungal diseases (IFDs) [@taplitz_etal18] Beyond the direct mortality of these infections, IFDs can jeopardize the timing and intensity of subsequent chemotherapy treatment cycles [@girmenia2014a;@even2011] or stem cell transplantation [@cordonnier_etal95;@offner_etal98]increasing the patient's risk for leukemia relapse. As a result, antifungal prophylaxis, most commonly with posaconazole, has become a standard of care in many centres to reduce the risk of fungal fungal infection during remission-induction chemotherapy [@maertens_etal18; @cornely2007J]
+Acute myeloid leukemia (AML) is a hematologic malignancy characterized by the proliferation of myeloid blasts or progranulocytes that fail to undergo normal differentiation [@newell_cook21a]. It is the most common acute leukemia is older adults and historically associated with 5-year survival rates less than 10-15% [@kantarjian_etal21b]. The standard remission-induction chemotherapy for AML in use for over 40 years combines cytarabine and an anthracycline that results in severe and prolonged neutropenia, which places patients at high risk for developing life-threatening invasive fungal diseases (IFDs) [@taplitz_etal18] Beyond the direct mortality of these infections, IFDs can jeopardize the timing and intensity of subsequent chemotherapy treatment cycles [@girmenia2014a;@even2011] or stem cell transplantation [@cordonnier_etal95;@offner_etal98]increasing the patient's risk for leukemia relapse. As a result, antifungal prophylaxis, typically posaconazole, has become a standard of care in many centres to reduce the risk of fungal fungal infection during remission-induction chemotherapy [@maertens_etal18; @cornely2007J]
 
-Progress in the knowledge of the biology and therapy of acute myeloid leukemia (AML) has evolved at a rapid pace over the last two decades. High resolution cytogenetics and next-generation sequencing have better defined the molecular drivers or lekemogenesis and disease progression sparking an explosion in novel "targeted thearpies" [@kantarjian2021]. Most of these new therapies are represented by small molecule kinase inhibitors (SMKIs) that target aberrant signalling pathways that arise form somatic mutations in leukemic cells[@kantarjian_etal21]. Targeted therapies are now being incorporated in virtually every treatment phase of AML, and increasingly are used in place of more toxic standard chemotherapy regimens in older adults who in the past were only candidates for pallative care or hospise care [@kantarjian_etal22].
+Progress in the knowledge of the biology and therapy of acute myeloid leukemia (AML) has evolved at a rapid pace over the last two decades. High resolution cytogenetics and next-generation sequencing have better defined the molecular drivers or lekemogenesis and malignancy progression sparking an explosion in novel "targeted thearpies" [@kantarjian2021]. Most of these new therapies are represented by small molecule kinase inhibitors (SMKIs) that target aberrant signalling pathways that arise form somatic mutations in leukemic cells[@kantarjian_etal21]. Targeted therapies are now being incorporated into every treatment phase of AML, and increasingly are used in place of more toxic standard chemotherapy regimens in older adults who in the past were only candidates for pallative care or hospise care [@kantarjian_etal22].
 
-Despite the promise of these new therapies, their clinical use in patients with AML is often complicated by drug interactions affecting their metabolic clearance through the CYP3A4/5 pathway [@bruggemann2022] Co-administration of SMKIs with mould-active triazoles such as posaconazole, can result in excessive drug exposures and serious toxicities without dosage adjustment of the SMKIs or discontinuation of the triazole. Therefore, clinicians are often faced with the prospect of (i) potentially stopping triazole prophylaxis to avoid interactions with the SMKI; (ii) switching to an alternative antifungal prophylaxis without CYP3A4/5 interactions; (iii) empirically reducing the dose of the SMKI to account for the effect of triazole CYP3A4/5 inhibition; and (iv) continuing both the SMKI and triazole atful dose and monitoring the patient carefully for toxicity. Each of these choices are associated with potential risks to patient and must be weighed carefully depending on the treatment setting and resources available for diagnostic testing and therapeutic drug monitoring.
+Despite the promise of these new therapies, their clinical use in patients with AML is often complicated by drug interactions affecting their metabolic clearance through the CYP3A4/5 pathway [@bruggemann2022]. Co-administration of SMKIs with mould-active triazoles such as posaconazole, may result in excessive drug exposures and serious toxicities without dosage adjustment of the SMKIs or discontinuation of the triazole. Therefore, clinicians are often faced with the prospect of (1) potentially stopping triazole prophylaxis to avoid interactions with the SMKI; (2) switching to an alternative antifungal prophylaxis without CYP3A4/5 interactions; (3) empirically reducing the dose of the SMKI to account for the effect of triazole CYP3A4/5 inhibition but potentially increasing the risk of AML treatment failure; and (4) continuing both the SMKI and triazole at full dose and monitoring the patient carefully for toxicity. Each of these choices are associated with risks to patient and must be weighed carefully depending on the leukemia prognosis, treatment phase, and resources available for diagnostic testing and therapeutic drug monitoring.
 
 In this review, we address these four questions for the three most common class of prescribed SMKIs-venetoclax, FLT3 inhibitors (midostaurin, gilteritinib, quizartinib) and IDH inhibitors (ivosidenib, enasidenib). We will specifically focus on recent data examining what is known about the potential risks for IFD with SMKIs used in AML treatment that define the need for prophylaxis, what are the advantages and disadvantages of using non-triazole based prophylaxis, what is known about the safety of empiric dose adjustments for SMKIs, and what the are the risks giving triazole with full-dose SMKI therapy.
 
 ## Should triazole prophylaxis be stopped?
 
-\
-Should we consider non-triazole based primary prophylaxis?
+AML patients are among the highest risk groups for developing IFDs, with a reported incidence approaching 10 to 25% in recent surveys []. Historically, the main considered to drive  risk for IFD were related to (1) host fitness for standard chemotherapy (ie, fit, unfit, or frail); (2) leukemia resistance (high vs low probability of achieving complete remission [CR]); (3) anticipated treatment-related toxicity such as neutropenia, mucositis, and steroid-induced immunosuppression; and (4) patient exposure to opportunistic fungi. [Nucci and Anaissie 2014]. 
+## Should we consider non-triazole based primary prophylaxis?
 
-\
+## Should we empirically reduce the dose of SMKIs or continue at full-dose?
+
+### Venetoclax
+
+### FLT3 inhibitors
+
+### IDH inhibitors
+
+## Will there be a role for therapeutic drug monitoring?
+
+## Conclusions
+
+
+
+
